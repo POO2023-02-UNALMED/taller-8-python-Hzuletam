@@ -1,6 +1,3 @@
-from persona import Persona
-from futbolista import Futbolista
-
 class Deportista:
     
     def __init__(self, deporte, anosPracticando):
