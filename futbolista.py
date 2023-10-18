@@ -1,5 +1,5 @@
-from persona.py import Persona
-from futbolista.py import Futbolista
+from persona import Persona
+from futbolista import Futbolista
 
 class Futbolista(Persona,Deportista):
     listaFutbolistas = []
